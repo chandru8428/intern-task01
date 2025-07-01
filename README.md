@@ -1,5 +1,4 @@
-# intern-task01
-```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -83,7 +82,7 @@
         border-color: black;
         
     }
-    .table tr td{
+ .table tr td{
         border-color: black;
         border-width: 2px;
         border-style: groove;
@@ -93,6 +92,4 @@
     }
 </style>
 </html>
-```
-##output
-![image](https://github.com/user-attachments/assets/c58a4c35-29bc-44d1-9683-a539e0019459)
+
